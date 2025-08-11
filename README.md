@@ -1,44 +1,32 @@
-# Sistem Manajemen Keuangan
+# Sistem Informasi Manajemen Keuangan Bengkel Motor
 
 ## Deskripsi
 
-Sistem Manajemen Keuangan adalah aplikasi sederhana yang dibangun menggunakan PHP natif untuk membantu pengguna dalam mengelola keuangan. Aplikasi ini dirancang untuk memudahkan pencatatan pengeluaran dan pemasukan, serta menyediakan berbagai fitur lainnya yang membantu dalam perencanaan keuangan pribadi.
+Aplikasi ini dibuat dengan menggunakan PHP Native dan menggunakan MySQL sebagai databasenya. Adapun fitur dari aplikasi ini adalah sebagai berikut :
 
 ## Fitur Utama
+01 - Menggunakan template AdminLTE
+02 - CRUD data kategori untuk pengeluaran atau pemasukan
+03 - menu data stok barang
+04 - menu data kategori transaksi
+05 - menu transaksi 
+06 - menu hutang dan piutang
+08 - menu akun rekening bank
+09 - menu Perhitungan otomatis pengeluaran dan pemasukan pada setiap akun bank
+10 - menu Pengelolaan data pengguna aplikasi : Terdapat 2 hak akses, yaitu Administrator dan Pemilik
+11 - Menu Laporan : Filter laporan keuangan berdasarkan tanggal (Perhari, perminggu, perbulan), Filter laporan keuangan berdasarkan kategori pengeluaran atau pemasukan
+12 - Fitur ganti password
+13 - Terdapat ringkasan pemasukan perhari, perbulan, pertahun dan seluruh pemasukan pada dashboard
+14 - Terdapat ringkasan pengeluaran perhari, perbulan, pertahun dan seluruh pengeluaran pada dashboard
+15 - Terdapat kalender pada dashboard
+16 - Terdapat grafik pengeluaran dan pemasukan setiap bulan
+17 - Terdapat grafik pengeluaran dan pemasukan setiap tahun
+18 - Pengguna memiliki foto profil yang bisa diubah sendiri
 
-1. **Pencatatan Pengeluaran dan Pemasukan:**
-   - Pengguna dapat mencatat transaksi pengeluaran dan pemasukan secara detail.
-   - Kategori transaksi dapat ditentukan untuk mempermudah pelacakan.
+## Demo Website
+http://mediumorchid-finch-746410.hostingersite.com/
 
-2. **Laporan Keuangan:**
-   - Sistem menyediakan laporan keuangan berdasarkan periode waktu tertentu.
-   - Grafik dan visualisasi data membantu pengguna memahami pola pengeluaran dan pemasukan.
-
-3. **Manajemen Kategori:**
-   - Pengguna dapat menentukan dan mengelola kategori transaksi sesuai kebutuhan mereka.
-
-4. **Keamanan:**
-   - Sistem menyediakan keamanan dengan login dan otentikasi pengguna.
-
-## Persyaratan Sistem
-
-- Server web (misalnya, Apache atau Nginx)
-- PHP versi 7.x atau lebih tinggi
-- MySQL atau database lainnya untuk menyimpan data
-
-## Cara Menggunakan
-
-1. **Pra-syarat:**
-   - Pastikan persyaratan sistem terpenuhi.
-   - Import skema database yang disediakan ke dalam database MySQL.
-
-2. **Konfigurasi:**
-   - Edit file `koneksi.php` untuk mengonfigurasi koneksi database dan pengaturan lainnya.
-
-3. **Akses Aplikasi:**
-   - Buka aplikasi melalui browser dengan mengakses URL yang sesuai dengan direktori tempat aplikasi disimpan.
-
-4. **Login:**
+**Login:**
    - Login menggunakan akun yang telah dibuat.
      Informasi Akun
 
@@ -50,8 +38,7 @@ Sistem Manajemen Keuangan adalah aplikasi sederhana yang dibangun menggunakan PH
      Username: manajemen
      Password: manajemen123
 
-5. **Mulai Mengelola Keuangan:**
-   - Setelah login, mulailah mencatat transaksi, mengelola kategori, dan memanfaatkan fitur lainnya.
+
 
 ## Pengembangan dan Kontribusi
 
