@@ -31,6 +31,18 @@ Aplikasi ini dibuat dengan menggunakan PHP Native dan menggunakan MySQL sebagai 
 - PHP versi 7.x atau lebih tinggi
 - MySQL atau database lainnya untuk menyimpan data
 
+## Cara Menggunakan
+
+1. **Pra-syarat:**
+   - Pastikan persyaratan sistem terpenuhi.
+   - Import skema database yang disediakan ke dalam database MySQL.
+
+2. **Konfigurasi:**
+   - Edit file `koneksi.php` untuk mengonfigurasi koneksi database dan pengaturan lainnya.
+
+3. **Akses Aplikasi:**
+   - Buka aplikasi melalui browser dengan mengakses URL yang sesuai dengan direktori tempat aplikasi disimpan.
+     
 ## Demo Website
 http://mediumorchid-finch-746410.hostingersite.com/
 
