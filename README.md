@@ -74,4 +74,3 @@ Jika Anda ingin berkontribusi pada pengembangan sistem ini, silakan kirimkan *pu
 
 ☕ Traktir kopi: https://saweria.co/Emoneystudiocode
 
- Bagikan ke teman-teman yang membutuhkan.
