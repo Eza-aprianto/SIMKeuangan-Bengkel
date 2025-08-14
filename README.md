@@ -73,4 +73,5 @@ Jika Anda ingin berkontribusi pada pengembangan sistem ini, silakan kirimkan *pu
 🌟 Beri Star pada repository ini.
 
 ☕ Traktir kopi: https://saweria.co/Emoneystudiocode
+☕ Traktir kopi: https://sociabuzz.com/eza_aprianto/support
 
