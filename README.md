@@ -69,7 +69,7 @@ http://mediumorchid-finch-746410.hostingersite.com/
 
 Jika Anda ingin berkontribusi pada pengembangan sistem ini, silakan kirimkan *pull request* dan laporkan *issue* di repositori ini.
 
-## ❤️ Pengembangan dan Kontribusi
+## ❤️ SUPPORT
 🌟 Beri Star pada repository ini.
 
 ☕ Traktir kopi: https://saweria.co/Emoneystudiocode
